@@ -35,7 +35,3 @@ Cada linha subsequente no arquivo contém as informações de um cliente, separa
 ![Anotação 2024-03-26 145644](https://github.com/matheus3pires/Segunda-Atividade-de-Automacao-ADS1231-Devops/assets/87993331/13c36a70-40fa-41ae-b699-78919fd1a75a)
 ![Anotação 2024-03-26 145807](https://github.com/matheus3pires/Segunda-Atividade-de-Automacao-ADS1231-Devops/assets/87993331/d09cbafe-404d-4527-a33f-8ddef8dd6cd9)
 
-## Minhas Redes
-Fique conectado para mais novidades e atualizações. Não hesite em entrar em contato!
- 
-- Linkedin: [linkedin.com/in/matheuspiress](https://www.linkedin.com/in/matheuspiress/)
